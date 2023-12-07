@@ -9,9 +9,6 @@
 <img src="https://i.gifer.com/origin/58/5897353bbeca006545aae6c083436187.gif" alt="Gif animado">
 
 
-###
-
-<h2 align="left">Eu programo com</h2>
 
 ###
 
