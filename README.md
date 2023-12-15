@@ -31,9 +31,7 @@
   </a>
   <img width="12" />
   <a href="https://cdn.discordapp.com/attachments/1181582978594373643/1182413109655253214/Sem_titulo.png?ex=65849b05&is=65722605&hm=adf51eb31ebb7a49a699d331ced467c2477a4766fefac9286d31f691a064abdd&=&format=webp&quality=lossless">
-    <img src="https://cdn.discordapp.com/attachments/1181582978594373643/1182413109655253214/Sem_titulo.png?ex=65849b05&is=65722605&hm=adf51eb31ebb7a49a699d331ced467c2477a4766fefac9286d31f691a064abdd&=&format=webp&quality=lossless" height="40" alt="Assembly logo" />
-  </a>
-</div>
+ 
 
 
 
